@@ -1,0 +1,13 @@
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.csprojAssemblyReference.cache
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.AssemblyInfoInputs.cache
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.AssemblyInfo.cs
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.exe
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.deps.json
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.runtimeconfig.json
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.runtimeconfig.dev.json
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.dll
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\bin\Debug\netcoreapp3.1\Esercizio.pdb
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.dll
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.pdb
+C:\Users\elena.zazzetti\Desktop\Test-Modulo1\Esercizio\Esercizio\obj\Debug\netcoreapp3.1\Esercizio.genruntimeconfig.cache
